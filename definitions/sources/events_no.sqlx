@@ -1,0 +1,6 @@
+config {
+  type: "declaration",
+  database: "snappy-catcher-329011",
+  schema: "analytics_294648232",
+  name: "events_*"
+}
